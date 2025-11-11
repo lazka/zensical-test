@@ -1,0 +1,1 @@
+This is a file located outside of the docs dir
